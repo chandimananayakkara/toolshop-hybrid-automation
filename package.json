@@ -1,0 +1,27 @@
+{
+  "name": "toolshop-hybrid-automation",
+  "version": "1.0.0",
+  "description": "Hybrid UI + API Test Automation Framework     for PracticeSoftwareTesting.com using Playwright &amp; TypeScript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandimananayakkara/toolshop-hybrid-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chandimananayakkara/toolshop-hybrid-automation/issues"
+  },
+  "homepage": "https://github.com/chandimananayakkara/toolshop-hybrid-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0",
+    "allure-commandline": "^2.43.0",
+    "allure-playwright": "^3.10.2",
+    "dotenv": "^17.4.2",
+    "zod": "^4.4.3"
+  }
+}
