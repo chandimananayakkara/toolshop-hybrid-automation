@@ -1,0 +1,28 @@
+{
+  "existingUser": {
+    "email": "customer@practicesoftwaretesting.com",
+    "password": "welcome01",
+    "firstName": "Jane",
+    "lastName": "Doe"
+  },
+  "adminUser": {
+    "email": "admin@practicesoftwaretesting.com",
+    "password": "welcome01"
+  },
+  "newUser": {
+    "firstName": "Test",
+    "lastName": "AutoUser",
+    "email": "test_auto_{timestamp}@test.com",
+    "password": "Test@1234!",
+    "phone": "0771234567",
+    "address": "Test Street 123",
+    "city": "Colombo",
+    "state": "Western",
+    "country": "LK",
+    "postcode": "10100"
+  },
+  "invalidUser": {
+    "email": "invalid@test.com",
+    "password": "wrongpassword"
+  }
+}
